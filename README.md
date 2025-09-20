@@ -33,7 +33,7 @@ MySQL (database)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/janitri-backend-assignment.git
+git clone https://github.com/bsrashad/janitri-backend-assignment.git
 cd janitri-backend-assignment
 
 2. Create & activate virtual environment
